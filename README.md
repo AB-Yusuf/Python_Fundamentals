@@ -1,2 +1,2 @@
 # Python_Fundamentals
-Documentation of intuitive explanation of concepts and understanding of Python Language
+Documentation of intuitive explanation towards deep understanding and mastery of Python Language
